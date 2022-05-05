@@ -6,5 +6,5 @@
 
 **Author :** </br>
 Hasib Al Muzdadid</br>
-[Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/),
-[Rajshahi University of Engineering & Technology (RUET)]
+[Department of Computer Science & Engineering](https://www.cse.ruet.ac.bd/),</br>
+[Rajshahi University of Engineering & Technology (RUET)]()
