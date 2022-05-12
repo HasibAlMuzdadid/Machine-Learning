@@ -15,6 +15,11 @@ All my learnings from [Machine Learning with Python](https://www.coursera.org/le
 
 
 
+
 **Language used :** Python </br>
 **Development Tools :** [Jupyter Notebook](https://jupyter.org/)</br>
 **Platform :** [Skills Network Labs](https://labs.cognitiveclass.ai/)
+
+
+
+**Accomplishments :**
