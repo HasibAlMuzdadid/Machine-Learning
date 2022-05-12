@@ -23,3 +23,5 @@ All my learnings from [Machine Learning with Python](https://www.coursera.org/le
 
 
 **Accomplishments :**
+Course  | Achievement
+:-------------: | :-------------:
