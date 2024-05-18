@@ -10,7 +10,7 @@ Hasib Al Muzdadid</br>
 [Rajshahi University of Engineering & Technology (RUET)](https://www.ruet.ac.bd/)</br>
 Portfolio: https://hasibalmuzdadid.github.io </br>
 LinkedIn: https://www.linkedin.com/in/hasibalmuzdadid </br>
-Email: muzdadid@gmail.com
+
 
 ## Project Description :
 All my learnings from [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) course offered by [IBM](https://www.ibm.com) on [Coursera](https://www.coursera.org) which is also a part of [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) are reflected here.
